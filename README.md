@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @qaiskhan5534
+- 👀 I’m interested in full stack java..
+- 🌱 I’m currently learning full stack java...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ..refar
+-  GitHub .
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+qaiskhan5534/qaiskhan5534 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
